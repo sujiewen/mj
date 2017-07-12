@@ -1,4 +1,4 @@
-﻿var HALL_IP = "10.0.37.41";
+﻿var HALL_IP = "10.0.37.41";//这里是返回客户端，想要请求那个服务器，如果是外网，这里是外网ip或者域名
 var HALL_CLIENT_PORT = 9001;
 var HALL_ROOM_PORT = 9002;
 
