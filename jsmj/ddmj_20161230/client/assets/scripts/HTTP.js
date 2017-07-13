@@ -1,10 +1,12 @@
-var URL = "http://139.129.247.226:9000";
+var URL = "http://10.0.37.22:10000";
 //var URL = "http://120.24.181.145:9000";
 //var URL = "http://120.24.59.70:9000";
 //var URL = "http://192.168.1.168:9000";
 cc.VERSION = 20161227;
 var HTTP = cc.Class({
     extends: cc.Component,
+
+
 
     statics:{
         sessionId : 0,
