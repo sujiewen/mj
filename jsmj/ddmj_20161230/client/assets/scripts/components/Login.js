@@ -88,7 +88,8 @@ cc.Class({
     
     onBtnWeichatClicked:function(){
         var self = this;
-        cc.vv.anysdkMgr.login();
+        // cc.vv.anysdkMgr.login();
+        cc.vv.cocos2dxBridge.login();
     },
     
     onBtnMIMAClicked:function(event){

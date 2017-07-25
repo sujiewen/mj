@@ -256,6 +256,7 @@ cc.Class({
             jsb.reflection.callStaticMethod("com/vivigames/voicesdk/VoiceRecorder", "setStorageDir", "(Ljava/lang/String;)V",dir);    
         }
         else if(cc.sys.os == cc.sys.OS_IOS){
+            cc.log("setStorageDir="+ dir);
             jsb.reflection.callStaticMethod("VoiceSDK", "setStorageDir:",dir);
             if(!jsb.fileUtils.isDirectoryExist(dir)){
                 jsb.fileUtils.createDirectory(dir);

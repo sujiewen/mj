@@ -20,6 +20,8 @@ cc.Class({
         this.tipLabel.string = this._stateStr;
         
         this._splash = cc.find("Canvas/splash");
+        cc.log("this._splash = " + this._splash);
+        cc.log("this._splash.active = " + this._splash.active);
         this._splash.active = true;
     },
     
@@ -71,9 +73,12 @@ cc.Class({
         cc.vv.gameNetMgr = new GameNetMgr();
         cc.vv.gameNetMgr.initHandlers();
         
-        var AnysdkMgr = require("AnysdkMgr");
-        cc.vv.anysdkMgr = new AnysdkMgr();
-        cc.vv.anysdkMgr.init();
+        var Cocos2dxBridge = require("Cocos2dxBridge");
+        cc.vv.cocos2dxBridge = new Cocos2dxBridge();
+        
+        // var AnysdkMgr = require("AnysdkMgr");
+        // cc.vv.anysdkMgr = new AnysdkMgr();
+        // cc.vv.anysdkMgr.init();
         
         var VoiceMgr = require("VoiceMgr");
         cc.vv.voiceMgr = new VoiceMgr();

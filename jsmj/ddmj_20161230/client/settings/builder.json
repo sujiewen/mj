@@ -1,8 +1,9 @@
 {
   "appKey": "",
-  "appSecret": "",
+  "appSecret": "YzUzOGUyMWFlMzNmY2Y0ODIzYzQ",
   "excludeScenes": [],
   "includeAnySDK": false,
+  "includeSDKBox": false,
   "includeSdk": [
     "anysdk"
   ],
@@ -13,12 +14,12 @@
   "optimizeHotUpdate": true,
   "orientation": {
     "landscapeLeft": true,
-    "landscapeRight": false,
+    "landscapeRight": true,
     "portrait": false,
     "upsideDown": false
   },
   "packageName": "com.vivigames.scmj",
-  "privateKey": "",
+  "privateKey": "0583260E87C45DB353F4FDEBDDDD1525",
   "renderMode": "0",
   "startScene": "4a1acad9-ce88-4334-aa62-bf23a5ccc79e",
   "title": "DDMJ",
