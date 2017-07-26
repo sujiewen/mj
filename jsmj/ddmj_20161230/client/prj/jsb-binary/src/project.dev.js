@@ -7011,7 +7011,6 @@ var NBWXCallback = function NBWXCallback(data) {
         ret.sign = u.unionId;
         cc.sys.localStorage.setItem("wx_account", u.unionId);
         cc.sys.localStorage.setItem("wx_sign", u.unionId);
-        cc.log("ss =" + cc.vv.userMgr);
         cc.vv.userMgr.onAuth(ret);
     }
     cc.log(data);

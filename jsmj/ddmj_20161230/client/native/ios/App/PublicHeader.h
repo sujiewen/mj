@@ -10,10 +10,10 @@
 #define PublicHeader_h
 
 //友盟
-#define UMENG_KEY @"583f7d309f06fd79630020ef"
+#define UMENG_KEY @"5976bd08ae1bf83ee00009a4"
 //微信
-#define WX_APPKEY @"wx28dfc2c3228f93d9"
-#define WX_APPSecret @"fca4f063b551424eb48212449a2eb87f"
+#define WX_APPKEY @"wx7e735bb9a4bec219"
+#define WX_APPSecret @"bbceacc6e2c197a4d616d84c4ae3aef3"
 
 //跳转URL
 #define SHARE_REDIRECTURL @"http://mobile.umeng.com/social"
