@@ -14,7 +14,7 @@
   "optimizeHotUpdate": true,
   "orientation": {
     "landscapeLeft": true,
-    "landscapeRight": true,
+    "landscapeRight": false,
     "portrait": false,
     "upsideDown": false
   },

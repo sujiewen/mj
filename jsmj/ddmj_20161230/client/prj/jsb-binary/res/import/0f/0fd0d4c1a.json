@@ -1,0 +1,291 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_bg",
+      "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+      "rect": [
+        2,
+        2,
+        530,
+        492
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        530,
+        492
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_input_bg",
+      "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+      "rect": [
+        540,
+        2,
+        334,
+        50
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        334,
+        50
+      ],
+      "rotated": 1,
+      "capInsets": [
+        50,
+        20,
+        50,
+        20
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_text_normal",
+      "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+      "rect": [
+        597,
+        315,
+        114,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        114,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "emoji_text_normal",
+      "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+      "rect": [
+        686,
+        315,
+        100,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        100,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_list_line",
+      "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+      "rect": [
+        534,
+        2,
+        465,
+        4
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        465,
+        4
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "emoji_text_select",
+      "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+      "rect": [
+        642,
+        315,
+        100,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        100,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_btn_normal",
+      "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+      "rect": [
+        644,
+        2,
+        266,
+        50
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        266,
+        50
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "emoji_btn_normal",
+      "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+      "rect": [
+        592,
+        2,
+        266,
+        50
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        266,
+        50
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_text_select",
+      "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+      "rect": [
+        592,
+        270,
+        114,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        114,
+        43
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_btn_send",
+      "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+      "rect": [
+        540,
+        338,
+        125,
+        55
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        125,
+        55
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_btn_select",
+      "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+      "rect": [
+        748,
+        2,
+        263,
+        50
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        263,
+        50
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "emoji_btn_select",
+      "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+      "rect": [
+        696,
+        2,
+        263,
+        50
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        263,
+        50
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat",
+      "texture": "d9a5c7ff-3978-4dd1-a86c-22a18c33ef01",
+      "rect": [
+        2,
+        2,
+        796,
+        492
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        800,
+        496
+      ]
+    }
+  }
+]

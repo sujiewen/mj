@@ -1,0 +1,258 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "setting3",
+      "texture": "d1a03cc6-a428-433f-b66a-a2dcb6ce98ef",
+      "rect": [
+        822,
+        357,
+        66,
+        66
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        66,
+        66
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "setting10",
+      "texture": "d1a03cc6-a428-433f-b66a-a2dcb6ce98ef",
+      "rect": [
+        762,
+        2,
+        184,
+        45
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        184,
+        45
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "setting4",
+      "texture": "d1a03cc6-a428-433f-b66a-a2dcb6ce98ef",
+      "rect": [
+        822,
+        289,
+        66,
+        66
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        66,
+        66
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "setting11",
+      "texture": "d1a03cc6-a428-433f-b66a-a2dcb6ce98ef",
+      "rect": [
+        762,
+        49,
+        430,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        430,
+        32
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "setting6",
+      "texture": "d1a03cc6-a428-433f-b66a-a2dcb6ce98ef",
+      "rect": [
+        822,
+        153,
+        66,
+        66
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        66,
+        66
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "setting1",
+      "texture": "d1a03cc6-a428-433f-b66a-a2dcb6ce98ef",
+      "rect": [
+        822,
+        49,
+        102,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        102,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "setting2",
+      "texture": "d1a03cc6-a428-433f-b66a-a2dcb6ce98ef",
+      "rect": [
+        890,
+        153,
+        51,
+        55
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        51,
+        55
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "setting12",
+      "texture": "d1a03cc6-a428-433f-b66a-a2dcb6ce98ef",
+      "rect": [
+        796,
+        49,
+        424,
+        24
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        424,
+        24
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "setting",
+      "texture": "d1a03cc6-a428-433f-b66a-a2dcb6ce98ef",
+      "rect": [
+        12,
+        1,
+        933,
+        483
+      ],
+      "offset": [
+        4.5,
+        -0.5
+      ],
+      "originalSize": [
+        948,
+        484
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "setting5",
+      "texture": "d1a03cc6-a428-433f-b66a-a2dcb6ce98ef",
+      "rect": [
+        822,
+        221,
+        66,
+        66
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        66,
+        66
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "setting9",
+      "texture": "d1a03cc6-a428-433f-b66a-a2dcb6ce98ef",
+      "rect": [
+        890,
+        206,
+        220,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        220,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "setting8",
+      "texture": "d1a03cc6-a428-433f-b66a-a2dcb6ce98ef",
+      "rect": [
+        2,
+        2,
+        758,
+        480
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        758,
+        480
+      ]
+    }
+  }
+]

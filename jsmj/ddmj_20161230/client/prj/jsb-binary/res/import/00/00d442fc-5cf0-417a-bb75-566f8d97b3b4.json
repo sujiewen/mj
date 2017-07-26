@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guafeng7",
+    "texture": "32fc197c-7bbc-4591-9625-2baf648da5ef",
+    "rect": [
+      0,
+      6,
+      499,
+      170
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      500,
+      180
+    ]
+  }
+}
