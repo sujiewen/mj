@@ -94,6 +94,7 @@ NSString* _wavFilePath;
         [recorder stop];
 #warning wav转amr
         if ([VoiceSDK ConvertWavToAmr:_wavFilePath amrSavePath:_recordFilePath]){
+            NSLog(@"success to translate wav to amr");
         }
         else{
             NSLog(@"failed to translate wav to amr");
