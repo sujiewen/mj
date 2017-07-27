@@ -1,0 +1,212 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "angry4",
+      "texture": "2b6ea8a8-0ec2-4eb9-8013-1badbd3fbed2",
+      "rect": [
+        1163,
+        650,
+        112,
+        116
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        112,
+        116
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "angry6",
+      "texture": "2b6ea8a8-0ec2-4eb9-8013-1badbd3fbed2",
+      "rect": [
+        1344,
+        268,
+        112,
+        116
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        112,
+        116
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "angry3",
+      "texture": "2b6ea8a8-0ec2-4eb9-8013-1badbd3fbed2",
+      "rect": [
+        1151,
+        804,
+        112,
+        116
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        112,
+        116
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "angry7",
+      "texture": "2b6ea8a8-0ec2-4eb9-8013-1badbd3fbed2",
+      "rect": [
+        1377,
+        116,
+        112,
+        116
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        112,
+        116
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "angry5",
+      "texture": "2b6ea8a8-0ec2-4eb9-8013-1badbd3fbed2",
+      "rect": [
+        1252,
+        447,
+        112,
+        116
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        112,
+        116
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "angry0",
+      "texture": "2b6ea8a8-0ec2-4eb9-8013-1badbd3fbed2",
+      "rect": [
+        1232,
+        331,
+        112,
+        116
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        112,
+        116
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "angry1",
+      "texture": "2b6ea8a8-0ec2-4eb9-8013-1badbd3fbed2",
+      "rect": [
+        1265,
+        152,
+        112,
+        116
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        112,
+        116
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "angry",
+    "_duration": 1.3333333333333333,
+    "sample": 6,
+    "wrapMode": 2,
+    "curveData": {
+      "comps": {
+        "cc.Sprite": {
+          "spriteFrame": [
+            {
+              "frame": 0,
+              "value": {
+                "__uuid__": "8fe224e5-640d-4a87-99b6-fa1e261713bf"
+              }
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__uuid__": "e88648aa-c921-4c4c-a071-9ef8ea95a262"
+              }
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": {
+                "__uuid__": "e88648aa-c921-4c4c-a071-9ef8ea95a262"
+              }
+            },
+            {
+              "frame": 0.5,
+              "value": {
+                "__uuid__": "43cf194b-951f-41d2-abf8-4b00596fc99c"
+              }
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__uuid__": "0c68b464-2b10-4d64-a025-e93952845161"
+              }
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": {
+                "__uuid__": "7411c09d-2f89-4202-9d7a-1101493513d4"
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__uuid__": "1c88086c-8bdc-4480-b651-82a71273f079"
+              }
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": {
+                "__uuid__": "574a6b87-40f5-467f-9bd4-5decd2e86138"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+]

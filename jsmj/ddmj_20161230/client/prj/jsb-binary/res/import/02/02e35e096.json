@@ -1,0 +1,567 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jiaruyouxixiaochangjing",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        168,
+        443,
+        485,
+        398
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        485,
+        398
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chuangjianfangjianxiaochangjing",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        168,
+        2,
+        502,
+        439
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        502,
+        439
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bangzhu",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        638,
+        1200,
+        67,
+        79
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        79
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chuangjianfang",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        168,
+        1077,
+        446,
+        115
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        446,
+        115
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "xiao'xi",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        488,
+        1194,
+        67,
+        79
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        79
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "zhuziyou",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        710,
+        2,
+        106,
+        359
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        106,
+        359
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "wuhanmajiangtitle",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        168,
+        1194,
+        318,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        318,
+        49
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "touxing001",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        660,
+        917,
+        145,
+        146
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        145,
+        146
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "feedback",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        660,
+        1065,
+        145,
+        133
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        145,
+        133
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "share",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        710,
+        491,
+        117,
+        133
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        117,
+        133
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fangkaxiaobeijing",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        616,
+        843,
+        241,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        241,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "main_scene.plist",
+    "_spriteFrames": {
+      "bangzhu": {
+        "__uuid__": "147fe42f-7640-4b8a-adf2-b4097e0c7e65"
+      },
+      "card": {
+        "__uuid__": "c35d6dfe-70ee-4bc0-8bc8-38b9ec4618f2"
+      },
+      "chuangjianfang": {
+        "__uuid__": "23790826-1d37-4f95-8765-1a77abc15c3f"
+      },
+      "chuangjianfangjianxiaochangjing": {
+        "__uuid__": "118e175e-deaa-47da-8f22-aa3b92233165"
+      },
+      "dingbuuibantoumingdi": {
+        "__uuid__": "c2236cae-cdc3-41d4-a58f-b5b4e18fb6e2"
+      },
+      "fangkaxiaobeijing": {
+        "__uuid__": "792edbfd-c7c3-4fbc-af11-abc267ab9d7d"
+      },
+      "feedback": {
+        "__uuid__": "52a1abf5-8762-4bb7-82dd-c6c7afc88610"
+      },
+      "ffanghuifangj": {
+        "__uuid__": "9b5079b4-d62b-4dcb-95c2-27e71c3d757d"
+      },
+      "goumaixiaojiahao": {
+        "__uuid__": "b874b9e3-55b7-46b5-911e-46d8e00ae34d"
+      },
+      "huodong": {
+        "__uuid__": "d2bf07d6-cbaa-485a-9e05-b9409bf16b62"
+      },
+      "jiaruyouxi": {
+        "__uuid__": "b824bcbe-b02d-4032-9eee-253b4368c088"
+      },
+      "jiaruyouxixiaochangjing": {
+        "__uuid__": "02491912-f027-4dce-88b9-9296333c8dee"
+      },
+      "paomadengbeijing": {
+        "__uuid__": "cf017ebf-8a52-4b86-b6b8-e84ad1dd9ff0"
+      },
+      "share": {
+        "__uuid__": "653c33e2-391d-4d4b-b922-e48e6b9f3a42"
+      },
+      "shezhi": {
+        "__uuid__": "b0737cf8-25e7-4122-a577-66181b3ffbb8"
+      },
+      "touxing001": {
+        "__uuid__": "4db720d9-b5ed-47db-b457-e7dff65d0c6f"
+      },
+      "touxingbg001": {
+        "__uuid__": "9ff38dc8-149e-464e-b574-d093ce5967d5"
+      },
+      "wuhanmajiangtitle": {
+        "__uuid__": "3e2ce021-e723-452d-94ed-bb743dfdc7ee"
+      },
+      "xiao'xi": {
+        "__uuid__": "24670f05-f6d6-42a2-b7a4-ef9e463011f7"
+      },
+      "xiaolaba": {
+        "__uuid__": "9fe76483-1a41-4ec8-9779-147f104cf4f7"
+      },
+      "xixia001": {
+        "__uuid__": "9ef235e3-46fd-45ef-8e0a-d6531e7f1ffb"
+      },
+      "zhanji": {
+        "__uuid__": "b03dc8dc-0c47-41b0-96e5-e638457d4fa4"
+      },
+      "zhuziyou": {
+        "__uuid__": "3c83a88f-ffc9-4db5-8925-323eba63cccb"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ffanghuifangj",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        168,
+        960,
+        446,
+        115
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        446,
+        115
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "xixia001",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        104,
+        2,
+        1280,
+        62
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1280,
+        62
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "xiaolaba",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        616,
+        1086,
+        39,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        39,
+        34
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "touxingbg001",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        710,
+        626,
+        114,
+        114
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        114,
+        114
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "zhanji",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        660,
+        742,
+        173,
+        139
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        173,
+        139
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "shezhi",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        569,
+        1194,
+        67,
+        79
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        67,
+        79
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jiaruyouxi",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        168,
+        843,
+        446,
+        115
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        446,
+        115
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "goumaixiaojiahao",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        801,
+        742,
+        31,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        31,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "dingbuuibantoumingdi",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        2,
+        2,
+        1280,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1280,
+        100
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        168,
+        1245,
+        60,
+        32
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        32
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "paomadengbeijing",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        672,
+        2,
+        716,
+        36
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        716,
+        36
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "huodong",
+      "texture": "331ab7b5-5be2-42dd-8ea1-a40274fdfe36",
+      "rect": [
+        710,
+        363,
+        122,
+        126
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        122,
+        126
+      ]
+    }
+  }
+]
