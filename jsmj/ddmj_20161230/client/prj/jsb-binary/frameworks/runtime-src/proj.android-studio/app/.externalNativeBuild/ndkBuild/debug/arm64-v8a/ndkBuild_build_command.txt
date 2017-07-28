@@ -1,4 +1,4 @@
-Executable : /Users/Sjw/Library/Android/sdk/ndk-bundle/ndk-build
+Executable : /Users/Sjw/Library/Android/android-ndk-r10e/ndk-build
 arguments : 
 NDK_PROJECT_PATH=null
 APP_BUILD_SCRIPT=/Users/Sjw/Code/mj/jsmj/ddmj_20161230/client/prj/jsb-binary/frameworks/runtime-src/proj.android-studio/app/jni/Android.mk

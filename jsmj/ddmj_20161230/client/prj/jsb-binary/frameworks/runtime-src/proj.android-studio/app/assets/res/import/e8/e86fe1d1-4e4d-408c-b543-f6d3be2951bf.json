@@ -1,0 +1,56 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "ChuPai",
+    "data": {
+      "__id__": 1
+    },
+    "asyncLoadAssets": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "ChuPai",
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "b5891hnB3xPsZ8btypA8brR"
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "M_character_3",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        },
+        "_spriteFrame": {
+          "__uuid__": "42fff579-3e8b-4b57-babb-7ef5e6a31ba9"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "fileId": "44f6fbrW4tN+KfvWX2OEkjj"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 75,
+      "height": 113
+    }
+  }
+]

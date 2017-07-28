@@ -29,14 +29,14 @@
         </activity>
 
         <!-- umengAppKey，replace to yours -->
-        <meta-data
-            android:name="UMENG_APPKEY"
-            android:value="59795d6fae1bf84599002380">
-        </meta-data>
-        <meta-data
-            android:name="UMENG_CHANNEL"
-            android:value="Umeng">
-        </meta-data>
+        <!--<meta-data-->
+            <!--android:name="UMENG_APPKEY"-->
+            <!--android:value="59795d6fae1bf84599002380">-->
+        <!--</meta-data>-->
+        <!--<meta-data-->
+            <!--android:name="UMENG_CHANNEL"-->
+            <!--android:value="Umeng">-->
+        <!--</meta-data>-->
 
     </application>
 

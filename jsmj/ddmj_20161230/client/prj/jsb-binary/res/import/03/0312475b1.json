@@ -1,0 +1,130 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "replayPause",
+      "texture": "739834dc-489b-4290-97ca-158d637f9dd2",
+      "rect": [
+        58,
+        2,
+        42,
+        54
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        42,
+        54
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "replayExit",
+      "texture": "739834dc-489b-4290-97ca-158d637f9dd2",
+      "rect": [
+        2,
+        2,
+        54,
+        54
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        54,
+        54
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "replayRewind",
+      "texture": "739834dc-489b-4290-97ca-158d637f9dd2",
+      "rect": [
+        102,
+        2,
+        53,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        53,
+        49
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "replayPlay",
+      "texture": "739834dc-489b-4290-97ca-158d637f9dd2",
+      "rect": [
+        204,
+        2,
+        45,
+        53
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        45,
+        53
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "replayBtn",
+      "texture": "739834dc-489b-4290-97ca-158d637f9dd2",
+      "rect": [
+        2,
+        2,
+        247,
+        54
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        251,
+        58
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "replayFast",
+      "texture": "739834dc-489b-4290-97ca-158d637f9dd2",
+      "rect": [
+        153,
+        2,
+        53,
+        49
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        53,
+        49
+      ],
+      "rotated": 1
+    }
+  }
+]

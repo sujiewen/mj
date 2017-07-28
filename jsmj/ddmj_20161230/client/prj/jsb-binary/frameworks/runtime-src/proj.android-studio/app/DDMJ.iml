@@ -125,8 +125,8 @@
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
-    <content url="file://$USER_HOME$/Library/Android/sdk/ndk-bundle/sources/android/cpufeatures">
-      <sourceFolder url="file://$USER_HOME$/Library/Android/sdk/ndk-bundle/sources/android/cpufeatures" isTestSource="false" />
+    <content url="file://$USER_HOME$/Library/Android/android-ndk-r10e/sources/android/cpufeatures">
+      <sourceFolder url="file://$USER_HOME$/Library/Android/android-ndk-r10e/sources/android/cpufeatures" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 22 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
