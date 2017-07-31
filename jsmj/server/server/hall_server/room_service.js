@@ -57,8 +57,8 @@ app.get('/register_gs',function(req,res){
 	console.log("game server registered.\n\tserverId:" + serverId + "\n\taddr:" + ip + "\n\thttp port:" + httpPort + "\n\tsocket clientport:" + clientport);
 
 	var reqdata = {
-		serverid:id,
-		sign:crypto.md5(id+config.ROOM_PRI_KEY)
+		serverid:serverId,
+		sign:crypto.md5(serverId+config.ROOM_PRI_KEY)
 	};
 	//获取服务器信息
 	http.get(ip,httpPort,"/get_server_info",reqdata,function(ret,data){

@@ -17,8 +17,8 @@
       <file leaf-file-name="client_service.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client_service.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            <state relative-caret-position="483">
+              <caret line="298" column="26" lean-forward="false" selection-start-line="298" selection-start-column="10" selection-end-line="298" selection-end-column="26" />
               <folding>
                 <element signature="e#1919#2396#0" expanded="false" />
                 <element signature="e#2448#3624#0" expanded="false" />
@@ -36,13 +36,13 @@
       <file leaf-file-name="room_service.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/room_service.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+            <state relative-caret-position="49">
+              <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
               <folding>
                 <element signature="e#313#615#0" expanded="false" />
-                <element signature="e#2280#2968#0" expanded="false" />
-                <element signature="e#3030#4721#0" expanded="false" />
-                <element signature="e#3618#4096#0" expanded="false" />
+                <element signature="e#2292#2980#0" expanded="false" />
+                <element signature="e#3042#4733#0" expanded="false" />
+                <element signature="e#3630#4108#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -92,9 +92,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="195" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="1016" />
+    <option name="y" value="64" />
     <option name="width" value="1400" />
     <option name="height" value="977" />
   </component>
@@ -113,8 +113,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,6 +124,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,15 +208,16 @@
       <workItem from="1501054357886" duration="1656000" />
       <workItem from="1501227506625" duration="338000" />
       <workItem from="1501395530748" duration="1764000" />
-      <workItem from="1501467082520" duration="3545000" />
+      <workItem from="1501467082520" duration="3571000" />
+      <workItem from="1501471051757" duration="347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8308000" />
+    <option name="totallyTimeSpent" value="8681000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="195" y="23" width="1400" height="977" extended-state="0" />
+    <frame x="1016" y="64" width="1400" height="977" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25285715" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -226,7 +227,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23646408" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23646408" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -252,6 +253,44 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/client_service.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#1919#2396#0" expanded="false" />
+            <element signature="e#2448#3624#0" expanded="false" />
+            <element signature="e#2672#3620#0" expanded="false" />
+            <element signature="e#3675#4517#0" expanded="false" />
+            <element signature="e#4566#4909#0" expanded="false" />
+            <element signature="e#5304#5626#0" expanded="false" />
+            <element signature="e#5674#5916#0" expanded="false" />
+            <element signature="e#5960#6360#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/room_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+          <folding>
+            <element signature="e#313#615#0" expanded="false" />
+            <element signature="e#2292#2980#0" expanded="false" />
+            <element signature="e#3042#4733#0" expanded="false" />
+            <element signature="e#3630#4108#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_service.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4185">
           <caret line="279" column="5" lean-forward="false" selection-start-line="279" selection-start-column="5" selection-end-line="279" selection-end-column="5" />
           <folding>
@@ -273,9 +312,9 @@
           <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
           <folding>
             <element signature="e#313#615#0" expanded="false" />
-            <element signature="e#2280#2968#0" expanded="false" />
-            <element signature="e#3030#4721#0" expanded="false" />
-            <element signature="e#3618#4096#0" expanded="false" />
+            <element signature="e#2292#2980#0" expanded="false" />
+            <element signature="e#3042#4733#0" expanded="false" />
+            <element signature="e#3630#4108#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -319,9 +358,9 @@
           <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding>
             <element signature="e#313#615#0" expanded="false" />
-            <element signature="e#2280#2968#0" expanded="false" />
-            <element signature="e#3030#4721#0" expanded="false" />
-            <element signature="e#3618#4096#0" expanded="false" />
+            <element signature="e#2292#2980#0" expanded="false" />
+            <element signature="e#3042#4733#0" expanded="false" />
+            <element signature="e#3630#4108#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -378,8 +417,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client_service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="483">
+          <caret line="298" column="26" lean-forward="false" selection-start-line="298" selection-start-column="10" selection-end-line="298" selection-end-column="26" />
           <folding>
             <element signature="e#1919#2396#0" expanded="false" />
             <element signature="e#2448#3624#0" expanded="false" />
@@ -395,13 +434,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/room_service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        <state relative-caret-position="49">
+          <caret line="33" column="22" lean-forward="true" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
           <folding>
             <element signature="e#313#615#0" expanded="false" />
-            <element signature="e#2280#2968#0" expanded="false" />
-            <element signature="e#3030#4721#0" expanded="false" />
-            <element signature="e#3618#4096#0" expanded="false" />
+            <element signature="e#2292#2980#0" expanded="false" />
+            <element signature="e#3042#4733#0" expanded="false" />
+            <element signature="e#3630#4108#0" expanded="false" />
           </folding>
         </state>
       </provider>
