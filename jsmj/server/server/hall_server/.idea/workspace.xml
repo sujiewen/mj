@@ -17,24 +17,42 @@
       <file leaf-file-name="client_service.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client_service.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="279" column="5" lean-forward="true" selection-start-line="279" selection-start-column="5" selection-end-line="279" selection-end-column="5" />
+            <state relative-caret-position="226">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
+                <element signature="e#1919#2396#0" expanded="false" />
                 <element signature="e#2448#3624#0" expanded="false" />
+                <element signature="e#2672#3620#0" expanded="false" />
                 <element signature="e#3675#4517#0" expanded="false" />
                 <element signature="e#4566#4909#0" expanded="false" />
-                <element signature="e#4959#5253#0" expanded="false" />
                 <element signature="e#5304#5626#0" expanded="false" />
+                <element signature="e#5674#5916#0" expanded="false" />
+                <element signature="e#5960#6360#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="room_service.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/room_service.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+              <folding>
+                <element signature="e#313#615#0" expanded="false" />
+                <element signature="e#2280#2968#0" expanded="false" />
+                <element signature="e#3030#4721#0" expanded="false" />
+                <element signature="e#3618#4096#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="135">
+              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="10" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -42,10 +60,22 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ping</find>
+      <find>gs</find>
+      <find>isServerOnline</find>
+      <find>serverMap</find>
+      <find>invalid parameters</find>
+      <find>registered</find>
+      <find>get_server_info</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/client_service.js" />
+        <option value="$PROJECT_DIR$/room_service.js" />
       </list>
     </option>
   </component>
@@ -63,10 +93,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="543" />
-    <option name="y" value="134" />
+    <option name="x" value="195" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
-    <option name="height" value="925" />
+    <option name="height" value="977" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -83,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -95,7 +126,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,6 +145,54 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Node.js.hall_server">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
+    <configuration name="hall_server" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="app.js" application-parameters="../configs.js &amp;" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -128,23 +206,27 @@
       <workItem from="1500951018826" duration="399000" />
       <workItem from="1501041071030" duration="606000" />
       <workItem from="1501054357886" duration="1656000" />
+      <workItem from="1501227506625" duration="338000" />
+      <workItem from="1501395530748" duration="1764000" />
+      <workItem from="1501467082520" duration="3545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2661000" />
+    <option name="totallyTimeSpent" value="8308000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="543" y="134" width="1400" height="925" extended-state="0" />
+    <frame x="195" y="23" width="1400" height="977" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25285715" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23646408" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -163,35 +245,100 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="25" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/client_service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="4185">
+          <caret line="279" column="5" lean-forward="false" selection-start-line="279" selection-start-column="5" selection-end-line="279" selection-end-column="5" />
           <folding>
+            <element signature="e#1919#2396#0" expanded="false" />
             <element signature="e#2448#3624#0" expanded="false" />
+            <element signature="e#2672#3620#0" expanded="false" />
             <element signature="e#3675#4517#0" expanded="false" />
             <element signature="e#4566#4909#0" expanded="false" />
-            <element signature="e#4959#5253#0" expanded="false" />
             <element signature="e#5304#5626#0" expanded="false" />
+            <element signature="e#5674#5916#0" expanded="false" />
+            <element signature="e#5960#6360#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/room_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="26" lean-forward="true" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+          <folding>
+            <element signature="e#313#615#0" expanded="false" />
+            <element signature="e#2280#2968#0" expanded="false" />
+            <element signature="e#3030#4721#0" expanded="false" />
+            <element signature="e#3618#4096#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4185">
+          <caret line="279" column="5" lean-forward="false" selection-start-line="279" selection-start-column="5" selection-end-line="279" selection-end-column="5" />
+          <folding>
+            <element signature="e#1919#2396#0" expanded="false" />
+            <element signature="e#2448#3624#0" expanded="false" />
+            <element signature="e#2672#3620#0" expanded="false" />
+            <element signature="e#3675#4517#0" expanded="false" />
+            <element signature="e#4566#4909#0" expanded="false" />
+            <element signature="e#5304#5626#0" expanded="false" />
+            <element signature="e#5674#5916#0" expanded="false" />
+            <element signature="e#5960#6360#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/room_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="e#313#615#0" expanded="false" />
+            <element signature="e#2280#2968#0" expanded="false" />
+            <element signature="e#3030#4721#0" expanded="false" />
+            <element signature="e#3618#4096#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client_service.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
+        <state relative-caret-position="4185">
           <caret line="279" column="5" lean-forward="true" selection-start-line="279" selection-start-column="5" selection-end-line="279" selection-end-column="5" />
           <folding>
+            <element signature="e#1919#2396#0" expanded="false" />
             <element signature="e#2448#3624#0" expanded="false" />
+            <element signature="e#2672#3620#0" expanded="false" />
             <element signature="e#3675#4517#0" expanded="false" />
             <element signature="e#4566#4909#0" expanded="false" />
-            <element signature="e#4959#5253#0" expanded="false" />
             <element signature="e#5304#5626#0" expanded="false" />
+            <element signature="e#5674#5916#0" expanded="false" />
+            <element signature="e#5960#6360#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -201,6 +348,61 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1919#2396#0" expanded="false" />
+            <element signature="e#2448#3624#0" expanded="false" />
+            <element signature="e#2672#3620#0" expanded="false" />
+            <element signature="e#3675#4517#0" expanded="false" />
+            <element signature="e#4566#4909#0" expanded="false" />
+            <element signature="e#5304#5626#0" expanded="false" />
+            <element signature="e#5674#5916#0" expanded="false" />
+            <element signature="e#5960#6360#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#1919#2396#0" expanded="false" />
+            <element signature="e#2448#3624#0" expanded="false" />
+            <element signature="e#2672#3620#0" expanded="false" />
+            <element signature="e#3675#4517#0" expanded="false" />
+            <element signature="e#4566#4909#0" expanded="false" />
+            <element signature="e#5304#5626#0" expanded="false" />
+            <element signature="e#5674#5916#0" expanded="false" />
+            <element signature="e#5960#6360#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/room_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="43" column="25" lean-forward="true" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+          <folding>
+            <element signature="e#313#615#0" expanded="false" />
+            <element signature="e#2280#2968#0" expanded="false" />
+            <element signature="e#3030#4721#0" expanded="false" />
+            <element signature="e#3618#4096#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -27,7 +27,9 @@ app.get('/register_gs',function(req,res){
 	var clientport = req.query.clientport;
 	var httpPort = req.query.httpPort;
 	var load = req.query.load;
-	var id = req.query.id;//clientip + ":" + clientport;
+	//req.query.id;//
+	var id = clientip + ":" + clientport;
+	var serverId = req.query.id;;
 
 	if(serverMap[id]){
 		var info = serverMap[id];
@@ -45,14 +47,14 @@ app.get('/register_gs',function(req,res){
 	}
 	serverMap[id] = {
 		ip:ip,
-		id:id,
+		id:serverId,
 		clientip:clientip,
 		clientport:clientport,
 		httpPort:httpPort,
 		load:load
 	};
 	http.send(res,0,"ok",{ip:ip});
-	console.log("game server registered.\n\tid:" + id + "\n\taddr:" + ip + "\n\thttp port:" + httpPort + "\n\tsocket clientport:" + clientport);
+	console.log("game server registered.\n\tserverId:" + serverId + "\n\taddr:" + ip + "\n\thttp port:" + httpPort + "\n\tsocket clientport:" + clientport);
 
 	var reqdata = {
 		serverid:id,

@@ -13,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="usermgr.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/usermgr.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="462">
+              <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -27,8 +27,8 @@
       <file leaf-file-name="tokenmgr.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tokenmgr.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -37,9 +37,24 @@
       <file leaf-file-name="socket_service.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/socket_service.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="185">
+              <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+              <folding>
+                <element signature="e#368#2771#0" expanded="false" />
+                <element signature="e#791#902#0" expanded="false" />
+                <element signature="e#1010#1130#0" expanded="false" />
+                <element signature="e#1732#2090#0" expanded="false" />
+                <element signature="e#2115#2274#0" expanded="false" />
+                <element signature="e#2553#2767#0" expanded="false" />
+                <element signature="e#2809#3116#0" expanded="false" />
+                <element signature="e#3163#3612#0" expanded="false" />
+                <element signature="e#3659#3850#0" expanded="false" />
+                <element signature="e#4994#5154#0" expanded="false" />
+                <element signature="e#5200#5452#0" expanded="false" />
+                <element signature="e#5506#5760#0" expanded="false" />
+                <element signature="e#5813#6070#0" expanded="false" />
+                <element signature="e#8166#8406#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,8 +62,8 @@
       <file leaf-file-name="roommgr.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/roommgr.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4368">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -57,22 +72,30 @@
       <file leaf-file-name="gamemgr_xlch.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gamemgr_xlch.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6318">
-              <caret line="461" column="21" lean-forward="true" selection-start-line="461" selection-start-column="21" selection-end-line="461" selection-end-column="21" />
+            <state relative-caret-position="77">
+              <caret line="93" column="5" lean-forward="true" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
               <folding>
+                <element signature="e#671#1095#0" expanded="false" />
+                <element signature="e#1166#1273#0" expanded="false" />
+                <element signature="e#1325#1432#0" expanded="false" />
+                <element signature="e#1493#1600#0" expanded="false" />
                 <element signature="n#!!block;n#checkCanWanGang#0" expanded="false" />
                 <element signature="n#!!block;n#clearAllOptions#0" expanded="false" />
+                <element signature="n#!!block;n#isQingYiSe#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
+      <file leaf-file-name="http_service.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/http_service.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="188">
+              <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+              <folding>
+                <element signature="e#1318#2016#0" expanded="false" />
+                <element signature="e#2059#2807#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,8 +103,8 @@
       <file leaf-file-name="gamemgr_xzdd.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gamemgr_xzdd.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4412">
-              <caret line="277" column="31" lean-forward="false" selection-start-line="277" selection-start-column="25" selection-end-line="277" selection-end-column="31" />
+            <state relative-caret-position="175">
+              <caret line="1482" column="37" lean-forward="true" selection-start-line="1482" selection-start-column="37" selection-end-line="1482" selection-end-column="37" />
               <folding>
                 <element signature="n#!!block;n#shuffle#0" expanded="false" />
               </folding>
@@ -89,17 +112,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mjutils.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mjutils.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mjutils.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="813">
+              <caret line="225" column="28" lean-forward="false" selection-start-line="225" selection-start-column="28" selection-end-line="225" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>xlch</find>
+      <find>exit</find>
+      <find>ping</find>
+      <find>disconnect</find>
+      <find>register_gs</find>
+      <find>get_server_info</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/socket_service.js" />
+        <option value="$PROJECT_DIR$/gamemgr_xzdd.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -115,10 +156,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="328" />
-    <option name="y" value="36" />
-    <option name="width" value="1400" />
-    <option name="height" value="925" />
+    <option name="x" value="332" />
+    <option name="y" value="46" />
+    <option name="width" value="1372" />
+    <option name="height" value="976" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -135,7 +176,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,12 +188,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,6 +208,54 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Node.js.majiang_server">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
+    <configuration name="majiang_server" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="app.js" application-parameters="../configs.js &amp;" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -177,31 +267,36 @@
       <option name="presentableId" value="Default" />
       <updated>1500951058862</updated>
       <workItem from="1500951060021" duration="541000" />
+      <workItem from="1501393346699" duration="1372000" />
+      <workItem from="1501395548023" duration="2949000" />
+      <workItem from="1501399543156" duration="2757000" />
+      <workItem from="1501462025817" duration="544000" />
+      <workItem from="1501467067264" duration="3404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="541000" />
+    <option name="totallyTimeSpent" value="11567000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="328" y="36" width="1400" height="925" extended-state="0" />
+    <frame x="332" y="46" width="1372" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25510204" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40486726" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.086283185" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -213,11 +308,295 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="20" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/socket_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="160" column="73" lean-forward="false" selection-start-line="160" selection-start-column="11" selection-end-line="160" selection-end-column="73" />
+          <folding>
+            <element signature="e#368#2771#0" expanded="false" />
+            <element signature="e#791#902#0" expanded="false" />
+            <element signature="e#1010#1130#0" expanded="false" />
+            <element signature="e#1732#2090#0" expanded="false" />
+            <element signature="e#2115#2274#0" expanded="false" />
+            <element signature="e#2553#2767#0" expanded="false" />
+            <element signature="e#2809#3116#0" expanded="false" />
+            <element signature="e#3163#3612#0" expanded="false" />
+            <element signature="e#3659#3850#0" expanded="false" />
+            <element signature="e#4994#5154#0" expanded="false" />
+            <element signature="e#5200#5452#0" expanded="false" />
+            <element signature="e#5506#5760#0" expanded="false" />
+            <element signature="e#5813#6070#0" expanded="false" />
+            <element signature="e#8166#8406#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roommgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamemgr_xzdd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21210">
+          <caret line="1476" column="26" lean-forward="false" selection-start-line="1476" selection-start-column="26" selection-end-line="1476" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!block;n#shuffle#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#1318#2016#0" expanded="false" />
+            <element signature="e#2059#2807#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mjutils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="225" column="28" lean-forward="false" selection-start-line="225" selection-start-column="28" selection-end-line="225" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamemgr_xlch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="115" column="13" lean-forward="false" selection-start-line="115" selection-start-column="9" selection-end-line="115" selection-end-column="13" />
+          <folding>
+            <element signature="e#671#1095#0" expanded="false" />
+            <element signature="e#1166#1273#0" expanded="false" />
+            <element signature="e#1325#1432#0" expanded="false" />
+            <element signature="e#1493#1600#0" expanded="false" />
+            <element signature="n#!!block;n#checkCanWanGang#0" expanded="false" />
+            <element signature="n#!!block;n#clearAllOptions#0" expanded="false" />
+            <element signature="n#!!block;n#isQingYiSe#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usermgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="2" lean-forward="false" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="160" column="73" lean-forward="true" selection-start-line="160" selection-start-column="11" selection-end-line="160" selection-end-column="73" />
+          <folding>
+            <element signature="e#368#2771#0" expanded="false" />
+            <element signature="e#791#902#0" expanded="false" />
+            <element signature="e#1010#1130#0" expanded="false" />
+            <element signature="e#1732#2090#0" expanded="false" />
+            <element signature="e#2115#2274#0" expanded="false" />
+            <element signature="e#2553#2767#0" expanded="false" />
+            <element signature="e#2809#3116#0" expanded="false" />
+            <element signature="e#3163#3612#0" expanded="false" />
+            <element signature="e#3659#3850#0" expanded="false" />
+            <element signature="e#4994#5154#0" expanded="false" />
+            <element signature="e#5200#5452#0" expanded="false" />
+            <element signature="e#5506#5760#0" expanded="false" />
+            <element signature="e#5813#6070#0" expanded="false" />
+            <element signature="e#8166#8406#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tokenmgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roommgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamemgr_xlch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#671#1095#0" expanded="false" />
+            <element signature="e#1166#1273#0" expanded="false" />
+            <element signature="e#1325#1432#0" expanded="false" />
+            <element signature="e#1493#1600#0" expanded="false" />
+            <element signature="n#!!block;n#checkCanWanGang#0" expanded="false" />
+            <element signature="n#!!block;n#clearAllOptions#0" expanded="false" />
+            <element signature="n#!!block;n#isQingYiSe#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#1318#2016#0" expanded="false" />
+            <element signature="e#2059#2807#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mjutils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="225" column="28" lean-forward="true" selection-start-line="225" selection-start-column="28" selection-end-line="225" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamemgr_xzdd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21345">
+          <caret line="1485" column="38" lean-forward="true" selection-start-line="1485" selection-start-column="38" selection-end-line="1485" selection-end-column="38" />
+          <folding>
+            <element signature="n#!!block;n#shuffle#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usermgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tokenmgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1770">
+          <caret line="255" column="43" lean-forward="true" selection-start-line="255" selection-start-column="43" selection-end-line="256" selection-end-column="38" />
+          <folding>
+            <element signature="e#368#2771#0" expanded="false" />
+            <element signature="e#791#902#0" expanded="false" />
+            <element signature="e#1010#1130#0" expanded="false" />
+            <element signature="e#1732#2090#0" expanded="false" />
+            <element signature="e#2115#2274#0" expanded="false" />
+            <element signature="e#2553#2767#0" expanded="false" />
+            <element signature="e#2809#3116#0" expanded="false" />
+            <element signature="e#3163#3612#0" expanded="false" />
+            <element signature="e#3659#3850#0" expanded="false" />
+            <element signature="e#4994#5154#0" expanded="false" />
+            <element signature="e#5200#5452#0" expanded="false" />
+            <element signature="e#5506#5760#0" expanded="false" />
+            <element signature="e#5813#6070#0" expanded="false" />
+            <element signature="e#8166#8406#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roommgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#1318#2016#0" expanded="false" />
+            <element signature="e#2059#2807#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamemgr_xzdd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3225">
+          <caret line="277" column="31" lean-forward="false" selection-start-line="277" selection-start-column="25" selection-end-line="277" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!block;n#shuffle#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mjutils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="248" column="2" lean-forward="false" selection-start-line="248" selection-start-column="2" selection-end-line="248" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamemgr_xlch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="e#671#1095#0" expanded="false" />
+            <element signature="e#1166#1273#0" expanded="false" />
+            <element signature="e#1325#1432#0" expanded="false" />
+            <element signature="e#1493#1600#0" expanded="false" />
+            <element signature="n#!!block;n#checkCanWanGang#0" expanded="false" />
+            <element signature="n#!!block;n#clearAllOptions#0" expanded="false" />
+            <element signature="n#!!block;n#isQingYiSe#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/usermgr.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -238,15 +617,146 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#368#2771#0" expanded="false" />
+            <element signature="e#791#902#0" expanded="false" />
+            <element signature="e#1010#1130#0" expanded="false" />
+            <element signature="e#1732#2090#0" expanded="false" />
+            <element signature="e#2115#2274#0" expanded="false" />
+            <element signature="e#2553#2767#0" expanded="false" />
+            <element signature="e#2809#3116#0" expanded="false" />
+            <element signature="e#3163#3612#0" expanded="false" />
+            <element signature="e#3659#3850#0" expanded="false" />
+            <element signature="e#4994#5154#0" expanded="false" />
+            <element signature="e#5200#5452#0" expanded="false" />
+            <element signature="e#5506#5760#0" expanded="false" />
+            <element signature="e#5813#6070#0" expanded="false" />
+            <element signature="e#8166#8406#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/roommgr.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4368">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#1318#2016#0" expanded="false" />
+            <element signature="e#2059#2807#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamemgr_xzdd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3225">
+          <caret line="277" column="31" lean-forward="false" selection-start-line="277" selection-start-column="25" selection-end-line="277" selection-end-column="31" />
+          <folding>
+            <element signature="n#!!block;n#shuffle#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mjutils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="248" column="2" lean-forward="false" selection-start-line="248" selection-start-column="2" selection-end-line="248" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamemgr_xlch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6390">
+          <caret line="481" column="0" lean-forward="true" selection-start-line="481" selection-start-column="0" selection-end-line="481" selection-end-column="0" />
+          <folding>
+            <element signature="e#671#1095#0" expanded="false" />
+            <element signature="e#1166#1273#0" expanded="false" />
+            <element signature="e#1325#1432#0" expanded="false" />
+            <element signature="e#1493#1600#0" expanded="false" />
+            <element signature="n#!!block;n#checkCanWanGang#0" expanded="false" />
+            <element signature="n#!!block;n#clearAllOptions#0" expanded="false" />
+            <element signature="n#!!block;n#isQingYiSe#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usermgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tokenmgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#368#2771#0" expanded="false" />
+            <element signature="e#791#902#0" expanded="false" />
+            <element signature="e#1010#1130#0" expanded="false" />
+            <element signature="e#1732#2090#0" expanded="false" />
+            <element signature="e#2115#2274#0" expanded="false" />
+            <element signature="e#2553#2767#0" expanded="false" />
+            <element signature="e#2809#3116#0" expanded="false" />
+            <element signature="e#3163#3612#0" expanded="false" />
+            <element signature="e#3659#3850#0" expanded="false" />
+            <element signature="e#4994#5154#0" expanded="false" />
+            <element signature="e#5200#5452#0" expanded="false" />
+            <element signature="e#5506#5760#0" expanded="false" />
+            <element signature="e#5813#6070#0" expanded="false" />
+            <element signature="e#8166#8406#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roommgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamemgr_xlch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6450">
+          <caret line="461" column="21" lean-forward="true" selection-start-line="461" selection-start-column="21" selection-end-line="461" selection-end-column="21" />
+          <folding>
+            <element signature="e#671#1095#0" expanded="false" />
+            <element signature="e#1166#1273#0" expanded="false" />
+            <element signature="e#1325#1432#0" expanded="false" />
+            <element signature="e#1493#1600#0" expanded="false" />
+            <element signature="n#!!block;n#checkCanWanGang#0" expanded="false" />
+            <element signature="n#!!block;n#clearAllOptions#0" expanded="false" />
+            <element signature="n#!!block;n#isQingYiSe#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -258,20 +768,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gamemgr_xlch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6318">
-          <caret line="461" column="21" lean-forward="true" selection-start-line="461" selection-start-column="21" selection-end-line="461" selection-end-column="21" />
-          <folding>
-            <element signature="n#!!block;n#checkCanWanGang#0" expanded="false" />
-            <element signature="n#!!block;n#clearAllOptions#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gamemgr_xzdd.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4412">
+        <state relative-caret-position="3225">
           <caret line="277" column="31" lean-forward="false" selection-start-line="277" selection-start-column="25" selection-end-line="277" selection-end-column="31" />
           <folding>
             <element signature="n#!!block;n#shuffle#0" expanded="false" />
@@ -284,6 +783,106 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamemgr_xlch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="93" column="5" lean-forward="true" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
+          <folding>
+            <element signature="e#671#1095#0" expanded="false" />
+            <element signature="e#1166#1273#0" expanded="false" />
+            <element signature="e#1325#1432#0" expanded="false" />
+            <element signature="e#1493#1600#0" expanded="false" />
+            <element signature="n#!!block;n#checkCanWanGang#0" expanded="false" />
+            <element signature="n#!!block;n#clearAllOptions#0" expanded="false" />
+            <element signature="n#!!block;n#isQingYiSe#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mjutils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="813">
+          <caret line="225" column="28" lean-forward="false" selection-start-line="225" selection-start-column="28" selection-end-line="225" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roommgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socket_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding>
+            <element signature="e#368#2771#0" expanded="false" />
+            <element signature="e#791#902#0" expanded="false" />
+            <element signature="e#1010#1130#0" expanded="false" />
+            <element signature="e#1732#2090#0" expanded="false" />
+            <element signature="e#2115#2274#0" expanded="false" />
+            <element signature="e#2553#2767#0" expanded="false" />
+            <element signature="e#2809#3116#0" expanded="false" />
+            <element signature="e#3163#3612#0" expanded="false" />
+            <element signature="e#3659#3850#0" expanded="false" />
+            <element signature="e#4994#5154#0" expanded="false" />
+            <element signature="e#5200#5452#0" expanded="false" />
+            <element signature="e#5506#5760#0" expanded="false" />
+            <element signature="e#5813#6070#0" expanded="false" />
+            <element signature="e#8166#8406#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tokenmgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usermgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="57" column="40" lean-forward="true" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamemgr_xzdd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="1482" column="37" lean-forward="true" selection-start-line="1482" selection-start-column="37" selection-end-line="1482" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!block;n#shuffle#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/http_service.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="e#1318#2016#0" expanded="false" />
+            <element signature="e#2059#2807#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

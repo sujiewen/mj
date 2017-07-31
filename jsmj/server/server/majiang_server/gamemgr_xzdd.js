@@ -1506,7 +1506,7 @@ exports.dingQue = function(userId,type){
 };
 
 exports.chuPai = function(userId,pai){
-
+    console.log("userId="+userId + "  pai = " + pai);
     pai = Number.parseInt(pai);
     var seatData = gameSeatsOfUsers[userId];
     if(seatData == null){

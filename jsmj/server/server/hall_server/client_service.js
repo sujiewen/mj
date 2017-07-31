@@ -302,6 +302,7 @@ app.get('/is_server_online',function(req,res){
 	}
 	var ip = req.query.ip;
 	var port = req.query.port;
+	console.log("ip="+ip + "  port = "+port);
 	room_service.isServerOnline(ip,port,function(isonline){
 		var ret = {
 			isonline:isonline

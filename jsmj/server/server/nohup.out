@@ -77,3 +77,172 @@ problem with request: connect ECONNREFUSED 127.0.0.1:9003
 problem with request: connect ECONNREFUSED 127.0.0.1:9003
 problem with request: connect ECONNREFUSED 127.0.0.1:9003
 problem with request: connect ECONNREFUSED 127.0.0.1:9003
+account server is listening on 10000
+game server is listening on localhost:10003
+dealer api is listening on localhost:12581
+client service is listening on port 10001
+room service is listening on localhost:10002
+game server is listening on 10005
+game server registered.
+	id:001
+	addr:127.0.0.1
+	http port:10003
+	socket clientport:10005
+001
+1d94edad3ac1dbd0b710c96def5ab160
+{ userid: '10',
+  name: '夏侯雀圣',
+  roomid: '342338',
+  sign: '7beef5e957b2892e0f76cd23239d9fff' }
+7beef5e957b2892e0f76cd23239d9fff
+{ token: '9d5d1a3ce5f4e01dc9b406ae349fada8',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "342338" WHERE userid = "10"
+342338
+9d5d1a3ce5f4e01dc9b406ae349fada8
+1501396728444
+7beecc8b8a6486bd0964ed589c7ca2d7
+SELECT name,sex,headimg FROM t_users WHERE userid=12
+{ userid: '12',
+  name: '上官好运',
+  roomid: '342338',
+  sign: '63a82f1d821a0a48492aefcf4f331a04' }
+63a82f1d821a0a48492aefcf4f331a04
+{ token: 'd360b4c1201b1f3a6b618760a7accb08',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "342338" WHERE userid = "12"
+342338
+d360b4c1201b1f3a6b618760a7accb08
+1501396730495
+5327c851cc76afb62f8c7ce947808469
+SELECT name,sex,headimg FROM t_users WHERE userid=10
+SELECT name,sex,headimg FROM t_users WHERE userid=13
+SELECT name,sex,headimg FROM t_users WHERE userid=11
+东阳不输
+INSERT INTO t_users(account,name,coins,gems,sex,headimg) VALUES("guest_1501396712647","5Lic6Ziz5LiN6L6T",1000,21,0,null)
+UPDATE t_users SET roomid = null WHERE userid = "10"
+{ type: 'xzdd',
+  baseScore: 1,
+  zimo: 0,
+  jiangdui: false,
+  hsz: false,
+  dianganghua: 0,
+  menqing: false,
+  tiandihu: false,
+  maxFan: 4,
+  maxGames: 4,
+  creator: 10 }
+INSERT INTO t_rooms(uuid,id,base_info,ip,port,create_time)                 VALUES('1501396746264289996','289996','{"type":"xzdd","baseScore":1,"zimo":0,"jiangdui":false,"hsz":false,"dianganghua":0,"menqing":false,"tiandihu":false,"maxFan":4,"maxGames":4,"creator":10}','127.0.0.1',10005,1501396747)
+1501396746264289996
+{ userid: '10',
+  name: '夏侯雀圣',
+  roomid: '289996',
+  sign: 'a3cdb604b5c3eba9bf839533fae19941' }
+a3cdb604b5c3eba9bf839533fae19941
+{ token: '56728c851c0af414373ae57a86fdf2d9',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "289996" WHERE userid = "10"
+289996
+56728c851c0af414373ae57a86fdf2d9
+1501396746278
+983b53e988342b07e203e723153bf81d
+{ userid: '14',
+  name: '东阳不输',
+  roomid: '289996',
+  sign: '6d7542feb278040d3c62dd3dc0751867' }
+6d7542feb278040d3c62dd3dc0751867
+{ token: '8d4b71ed9d73e8e93fbdd02b51a86baa',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "289996" WHERE userid = "14"
+289996
+8d4b71ed9d73e8e93fbdd02b51a86baa
+1501396757674
+08c35f369a878b0fb235e9f353113d58
+UPDATE t_users SET roomid = null WHERE userid = "12"
+UPDATE t_users SET roomid = null WHERE userid = "13"
+UPDATE t_users SET roomid = null WHERE userid = "11"
+DELETE FROM t_rooms WHERE id = '342338'
+{ userid: '12',
+  name: '上官好运',
+  roomid: '289996',
+  sign: 'beece320da9866fbbefca900508d147c' }
+beece320da9866fbbefca900508d147c
+{ token: '6e025f923a5ae833267e49476753adec',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "289996" WHERE userid = "12"
+289996
+6e025f923a5ae833267e49476753adec
+1501396767853
+ba1b0597a2b5c1f47ccaa3ee51dd9062
+SELECT name,sex,headimg FROM t_users WHERE userid=14
+{ userid: '13',
+  name: '东阳不输',
+  roomid: '289996',
+  sign: 'c00284b2ad636ffb868cdc7d751d5a50' }
+c00284b2ad636ffb868cdc7d751d5a50
+{ token: '6d32ceda790e4531b9e0071918470911',
+  errcode: 0,
+  errmsg: 'ok' }
+UPDATE t_users SET roomid = "289996" WHERE userid = "13"
+289996
+6d32ceda790e4531b9e0071918470911
+1501396789447
+75e176ff03f4b23a6506159bd9a5c066
+game_holds_push
+mj_count_push
+game_num_push
+game_begin_push
+game_dingque_push
+game_holds_push
+mj_count_push
+game_num_push
+game_begin_push
+game_dingque_push
+game_holds_push
+mj_count_push
+game_num_push
+game_begin_push
+game_dingque_push
+game_holds_push
+mj_count_push
+game_num_push
+game_begin_push
+game_dingque_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push
+game_mopai_push
+game_action_push

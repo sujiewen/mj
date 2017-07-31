@@ -10,6 +10,7 @@ exports.start = function(config,mgr){
 	
 	io.sockets.on('connection',function(socket){
 		socket.on('login',function(data){
+            console.log("login = " + data);
 			data = JSON.parse(data);
 			if(socket.userId != null){
 				//已经登陆过的就忽略
@@ -120,16 +121,20 @@ exports.start = function(config,mgr){
 		});
 
 		socket.on('ready',function(data){
+            console.log("ready = " + data);
 			var userId = socket.userId;
 			if(userId == null){
 				return;
 			}
+            console.log("ready = " + data + "  userId="+userId);
+
 			socket.gameMgr.setReady(userId);
 			userMgr.broacastInRoom('user_ready_push',{userid:userId,ready:true},userId,true);
 		});
 
 		//换牌
 		socket.on('huanpai',function(data){
+            console.log("userId="+socket.userId + "  huanpai = " + data);
 			if(socket.userId == null){
 				return;
 			}
@@ -153,6 +158,7 @@ exports.start = function(config,mgr){
 
 		//定缺
 		socket.on('dingque',function(data){
+            console.log("userId="+socket.userId + "  dingque = " + data);
 			if(socket.userId == null){
 				return;
 			}
@@ -162,7 +168,8 @@ exports.start = function(config,mgr){
 
 		//出牌
 		socket.on('chupai',function(data){
-			if(socket.userId == null){
+            console.log("userId="+socket.userId + "  chupai = " + data);
+            if(socket.userId == null){
 				return;
 			}
 			var pai = data;
@@ -171,6 +178,7 @@ exports.start = function(config,mgr){
 		
 		//碰
 		socket.on('peng',function(data){
+            console.log("userId="+socket.userId + "  peng = " + data);
 			if(socket.userId == null){
 				return;
 			}
@@ -179,6 +187,7 @@ exports.start = function(config,mgr){
 		
 		//杠
 		socket.on('gang',function(data){
+            console.log("userId="+socket.userId + "  gang = " + data);
 			if(socket.userId == null || data == null){
 				return;
 			}
@@ -198,6 +207,7 @@ exports.start = function(config,mgr){
 		
 		//胡
 		socket.on('hu',function(data){
+            console.log("userId="+socket.userId + "  hu = " + data);
 			if(socket.userId == null){
 				return;
 			}
@@ -206,6 +216,7 @@ exports.start = function(config,mgr){
 
 		//过  遇上胡，碰，杠的时候，可以选择过
 		socket.on('guo',function(data){
+            console.log("userId="+socket.userId + "  guo = " + data);
 			if(socket.userId == null){
 				return;
 			}
@@ -214,6 +225,7 @@ exports.start = function(config,mgr){
 		
 		//聊天
 		socket.on('chat',function(data){
+            console.log("userId="+socket.userId + "  chat = " + data);
 			if(socket.userId == null){
 				return;
 			}
@@ -223,6 +235,7 @@ exports.start = function(config,mgr){
 		
 		//快速聊天
 		socket.on('quick_chat',function(data){
+            console.log("userId="+socket.userId + "  quick_chat = " + data);
 			if(socket.userId == null){
 				return;
 			}
@@ -232,6 +245,7 @@ exports.start = function(config,mgr){
 		
 		//语音聊天
 		socket.on('voice_msg',function(data){
+            console.log("userId="+socket.userId + "  voice_msg = " + data);
 			if(socket.userId == null){
 				return;
 			}
@@ -241,6 +255,7 @@ exports.start = function(config,mgr){
 		
 		//表情
 		socket.on('emoji',function(data){
+            console.log("userId="+socket.userId + "  emoji = " + data);
 			if(socket.userId == null){
 				return;
 			}
@@ -252,6 +267,7 @@ exports.start = function(config,mgr){
 		
 		//退出房间
 		socket.on('exit',function(data){
+            console.log("userId="+socket.userId + "  exit = " + data);
 			var userId = socket.userId;
 			if(userId == null){
 				return;
@@ -263,7 +279,7 @@ exports.start = function(config,mgr){
 			}
 
 			//如果游戏已经开始，则不可以
-			if(socket.gameMgr.hasBegan(roomId)){
+			if(socket.gameMgr.hasBesgan(roomId)){
 				return;
 			}
 
@@ -284,6 +300,7 @@ exports.start = function(config,mgr){
 		
 		//解散房间
 		socket.on('dispress',function(data){
+            console.log("userId="+socket.userId + "  dispress = " + data);
 			var userId = socket.userId;
 			if(userId == null){
 				return;
@@ -312,6 +329,7 @@ exports.start = function(config,mgr){
 
 		//解散房间
 		socket.on('dissolve_request',function(data){
+            console.log("userId="+socket.userId + "  dissolve_request = " + data);
 			var userId = socket.userId;
 			console.log(1);
 			if(userId == null){
@@ -346,6 +364,7 @@ exports.start = function(config,mgr){
 		});
 
 		socket.on('dissolve_agree',function(data){
+            console.log("userId="+socket.userId + "  dissolve_agree = " + data);
 			var userId = socket.userId;
 
 			if(userId == null){
@@ -382,6 +401,7 @@ exports.start = function(config,mgr){
 		});
 
 		socket.on('dissolve_reject',function(data){
+            console.log("userId="+socket.userId + "  dissolve_reject = " + data);
 			var userId = socket.userId;
 
 			if(userId == null){
@@ -401,6 +421,7 @@ exports.start = function(config,mgr){
 
 		//断开链接
 		socket.on('disconnect',function(data){
+            console.log("userId="+socket.userId + "  disconnect = " + data);
 			var userId = socket.userId;
 			if(!userId){
 				return;
@@ -419,6 +440,7 @@ exports.start = function(config,mgr){
 		});
 		
 		socket.on('game_ping',function(data){
+            console.log("userId="+socket.userId + "  game_ping = " + data);
 			var userId = socket.userId;
 			if(!userId){
 				return;

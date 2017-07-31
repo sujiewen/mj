@@ -1,6 +1,6 @@
 ﻿var HALL_IP = "10.0.37.41";//这里是返回客户端，想要请求那个服务器，如果是外网，这里是外网ip或者域名
-var HALL_CLIENT_PORT = 9001;
-var HALL_ROOM_PORT = 9002;
+var HALL_CLIENT_PORT = 10001;
+var HALL_ROOM_PORT = 10002;
 
 var ACCOUNT_PRI_KEY = "^&*#$%()@";
 var ROOM_PRI_KEY = "~!@#$(*&^%$&";
@@ -20,7 +20,7 @@ exports.mysql = function(){
 //账号服配置
 exports.account_server = function(){
 	return {
-		CLIENT_PORT:9000,
+		CLIENT_PORT:10000,
 		HALL_IP:HALL_IP,
 		HALL_CLIENT_PORT:HALL_CLIENT_PORT,
 		ACCOUNT_PRI_KEY:ACCOUNT_PRI_KEY,
@@ -42,7 +42,7 @@ exports.hall_server = function(){
 		ROOM_PORT:HALL_ROOM_PORT,
 		ACCOUNT_PRI_KEY:ACCOUNT_PRI_KEY,
 		ROOM_PRI_KEY:ROOM_PRI_KEY,
-        SERVER_ID:"001",
+    SERVER_ID:"001",
 	};	
 };
 
@@ -52,7 +52,7 @@ exports.game_server = function(){
 		SERVER_ID:"001",
 		
 		//暴露给大厅服的HTTP端口号
-		HTTP_PORT:9003,
+		HTTP_PORT:10003,
 		//HTTP TICK的间隔时间，用于向大厅服汇报情况
 		HTTP_TICK_TIME:5000,
 		//大厅服IP
@@ -65,6 +65,6 @@ exports.game_server = function(){
 		
 		//暴露给客户端的接口
 		CLIENT_IP:HALL_IP,
-		CLIENT_PORT:10000,
+		CLIENT_PORT:10005,
 	};
 };
